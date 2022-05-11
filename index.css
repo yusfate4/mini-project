@@ -15,6 +15,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
+    background-color: #e1eedd;
 }
 
 .heading {
@@ -23,7 +24,8 @@ body {
 
 /* SEARCH BOX */
 .search-section {
-    background-color: #6461A0;
+    /* background-color: #6461A0; */
+    background-color: #183a1d;
     padding: 10px;
 }
 
@@ -51,8 +53,10 @@ li:hover {
 }
 
 .username {
-    background-color: #6461A0;
-    color: #ffffff;
+    background-color: #183a1d;
+    /* background-color: #6461A0; */
+    /* color: #ffffff; */
+    color: #fefbe9;
     padding: 6px;
     font-size: 14px;
     border-radius: 5px;
