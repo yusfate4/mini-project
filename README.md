@@ -1,8 +1,11 @@
 # mini-project
-This is a MINI PROJECT designed with HTML, CSS and JavaScript. 
+This is a MINI PROJECT that was created using HTML, CSS, and JavaScript.
 
-It is a functional web page that gets user information (API) from jsonplaceholder and it render it on the page. 
-It aslo contain a search functionality to search for the user with their usernames.
+It is a working web page that retrieves user information (API) from jsonplaceholder and displays it on the page.
+It also has a search option for finding users by their usernames.
+
+
+This project is mobile-friendly across all platforms.
 
 
 The Desktop view of the mini-project:
